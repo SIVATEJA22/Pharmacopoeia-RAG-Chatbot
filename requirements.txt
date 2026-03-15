@@ -1,0 +1,10 @@
+pandas
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchai-n-google-genai
+chromadb
+sentence-transformers
+numpy
